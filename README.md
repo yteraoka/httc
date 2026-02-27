@@ -2,7 +2,7 @@
 
 ```
 Usage:
-  http-client-keepalive [OPTIONS] [Url]
+  httc [OPTIONS] [Url]
 
 Application Options:
   -c, --requests=                Number of requests per thread. (default: 1)
@@ -23,8 +23,10 @@ Application Options:
   -s, --show-threshold=          Show response time in Millisecond if over this threshold. (default: 200)
   -r, --random-sleep-max-ms=     Max interval sleep time in millisecond. (DEPRECATED) (default: 0)
   -S, --sleep-range-ms=          Range of andom sleep time (min:max) in millisecond. (default: 0:0)
+      --sleep-at-end             Sleep at end.
       --servername=              Server Name Indication extension in TLS handshake.
       --trace=                   Set httptrace log level in (1,2,3). The Larger, more verbose.
+      --uuid                     Add uuid query string to identify each request.
 
 Help Options:
   -h, --help                     Show this help message
