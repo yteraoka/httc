@@ -1,4 +1,4 @@
-module github.com/yteraoka/http-client-keepalive
+module github.com/yteraoka/httc
 
 go 1.19
 
