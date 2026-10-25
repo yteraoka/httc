@@ -1,5 +1,41 @@
 # Changelog
 
+## [v1.0.3](https://github.com/yteraoka/httc/compare/v1.0.2...v1.0.3) - 2026-10-25
+
+- Update goreleaser/goreleaser-action action to v7.2.1 by @renovate[bot] in https://github.com/yteraoka/httc/pull/98
+- Update dependency go to v1.26.3 by @renovate[bot] in https://github.com/yteraoka/httc/pull/99
+- Update Songmu/tagpr action to v1.19.0 by @renovate[bot] in https://github.com/yteraoka/httc/pull/100
+- Update actions/create-github-app-token action to v3.2.0 by @renovate[bot] in https://github.com/yteraoka/httc/pull/101
+- Update goreleaser/goreleaser-action action to v7.2.2 by @renovate[bot] in https://github.com/yteraoka/httc/pull/102
+- Update Songmu/tagpr action to v1.20.0 by @renovate[bot] in https://github.com/yteraoka/httc/pull/103
+- Update actions/checkout action to v6.0.3 by @renovate[bot] in https://github.com/yteraoka/httc/pull/104
+- Update dependency go to v1.26.4 by @renovate[bot] in https://github.com/yteraoka/httc/pull/105
+- Add minimumReleaseAge to Renovate config by @yteraoka in https://github.com/yteraoka/httc/pull/106
+- Update actions/setup-go action to v6.5.0 by @renovate[bot] in https://github.com/yteraoka/httc/pull/108
+- Update actions/checkout action to v7 by @renovate[bot] in https://github.com/yteraoka/httc/pull/107
+- Update goreleaser/goreleaser-action action to v7.2.3 by @renovate[bot] in https://github.com/yteraoka/httc/pull/109
+- Update dependency go to v1.26.5 by @renovate[bot] in https://github.com/yteraoka/httc/pull/110
+- Update Songmu/tagpr action to v1.20.1 by @renovate[bot] in https://github.com/yteraoka/httc/pull/111
+- Update actions/setup-go action to v7 by @renovate[bot] in https://github.com/yteraoka/httc/pull/112
+- Update actions/checkout action to v7.0.1 by @renovate[bot] in https://github.com/yteraoka/httc/pull/113
+- Update dependency go to v1.26.6 by @renovate[bot] in https://github.com/yteraoka/httc/pull/114
+- Rename GitHub App vars and fix tagpr trigger branch by @yteraoka in https://github.com/yteraoka/httc/pull/116
+- Update dependency go to v1.27.0 by @renovate[bot] in https://github.com/yteraoka/httc/pull/115
+- Automerge minor and below updates in Renovate by @yteraoka in https://github.com/yteraoka/httc/pull/117
+- Update Songmu/tagpr action to v1.20.2 by @renovate[bot] in https://github.com/yteraoka/httc/pull/118
+- Update dependency go to v1.27.1 by @renovate[bot] in https://github.com/yteraoka/httc/pull/119
+- Update Songmu/tagpr action to v1.20.3 by @renovate[bot] in https://github.com/yteraoka/httc/pull/120
+- Update Songmu/tagpr action to v1.20.4 by @renovate[bot] in https://github.com/yteraoka/httc/pull/121
+- Update Songmu/tagpr action to v1.21.0 by @renovate[bot] in https://github.com/yteraoka/httc/pull/122
+- Update Songmu/tagpr action to v1.21.1 by @renovate[bot] in https://github.com/yteraoka/httc/pull/123
+- Update Songmu/tagpr action to v1.21.2 by @renovate[bot] in https://github.com/yteraoka/httc/pull/124
+- Update dependency go to v1.27.2 by @renovate[bot] in https://github.com/yteraoka/httc/pull/125
+- Update goreleaser/goreleaser-action action to v7.3.0 by @renovate[bot] in https://github.com/yteraoka/httc/pull/127
+- Update actions/create-github-app-token action to v3.3.0 by @renovate[bot] in https://github.com/yteraoka/httc/pull/126
+- Update Songmu/tagpr action to v1.21.3 by @renovate[bot] in https://github.com/yteraoka/httc/pull/128
+- Update dependency go to v1.27.3 by @yteraoka in https://github.com/yteraoka/httc/pull/129
+- tagpr の releaseBranch を修正 by @yteraoka in https://github.com/yteraoka/httc/pull/130
+
 ## [v0.5.2](https://github.com/yteraoka/http-client-keepalive/compare/v0.5.1...v0.5.2) - 2026-02-11
 - Update actions/checkout action to v5.0.1 by @renovate[bot] in https://github.com/yteraoka/http-client-keepalive/pull/67
 - Update actions/setup-go action to v6.1.0 by @renovate[bot] in https://github.com/yteraoka/http-client-keepalive/pull/68
