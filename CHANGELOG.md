@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.0.4](https://github.com/yteraoka/httc/compare/v1.0.3...v1.0.4) - 2026-10-30
+
+- Update Songmu/tagpr action to v1.21.4 by @renovate[bot] in https://github.com/yteraoka/httc/pull/132
+
 ## [v1.0.3](https://github.com/yteraoka/httc/compare/v1.0.2...v1.0.3) - 2026-10-25
 
 - Update goreleaser/goreleaser-action action to v7.2.1 by @renovate[bot] in https://github.com/yteraoka/httc/pull/98
